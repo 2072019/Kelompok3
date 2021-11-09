@@ -160,7 +160,7 @@ p,li{
 }
 
 
-/* #################### SHOWCASE SECTION STYLING ####################### */
+/* SECTION STYLING  */
 
 .showcase{
     background: #ddd;
@@ -230,7 +230,7 @@ p,li{
     clear: both;
 }
 
-/* ################## FEATURES ################## */
+/* FEATURES */
 
 .features{
     padding: 10rem 0;
@@ -279,7 +279,7 @@ p,li{
     margin-bottom: 1em;
 }
 
-/* ##################### FOOTER #################### */
+/* FOOTER */
 
 .footer{
     padding: 2rem;
@@ -292,7 +292,7 @@ p,li{
     margin-bottom: 1rem;
 }
 
-/* ################# ABOUT PAGE STYLING ################### */
+/* PAGE STYLING */
 
 /* .about-heading{
     margin-top: 4rem;
@@ -342,7 +342,7 @@ p,li{
     padding-right: 1rem;
 }
 
-/* ################ COUNT ITEMS ################# */
+/* COUNT ITEMS */
 
 .count div{
     text-align: center;
@@ -367,7 +367,7 @@ p,li{
     clear: both;
 }
 
-/* ############### CONTACT SOON ################ */
+/* CONTACT */
 
 .contact-soon{
     margin-top: 2em;
@@ -407,7 +407,7 @@ p,li{
     clear: both;
 }
 
-/* ######################## CONTACT FORM ####################### */
+/* CONTACT FORM */
 
 .contact-form{
     padding: 5rem 0;
@@ -450,7 +450,7 @@ p,li{
     object-position: center;
 }
 
-/* ################## FROM STYLING ################## */
+/* FROM STYLING */
 
 .form{
     height: 760px;
@@ -506,7 +506,7 @@ p,li{
     border-radius: 2rem;
 }
 
-/* ########################### MEDIA QUERIES ############################ */
+/* MEDIA */
 
 @media (max-width: 768px) {
     html{
